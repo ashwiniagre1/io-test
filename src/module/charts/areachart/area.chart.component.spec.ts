@@ -1,6 +1,7 @@
 import { AreaChartComponent } from './area.chart.component';
 //import { AmexioFormIconComponent } from '../icon/icon.component';
 //charts
+// check
 import { FormsModule } from '@angular/forms';
 import { IconLoaderService } from '../../../index'
 import { ComponentFixture, TestBed } from '@angular/core/testing';
